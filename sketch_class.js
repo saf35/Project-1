@@ -11,5 +11,5 @@ function setup(){
 }
 
 function draw(){
-    image(img,400,400,180,300);
+    image(img, 100, 100, img.width/5, img.height/5);
 }
