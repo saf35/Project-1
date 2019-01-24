@@ -20,7 +20,7 @@ let letter = 'z';
 
 function preload(){
     img = loadImage('images/aaronphilip.png');
-    pauliimg = loadImage('images/paulimurray.png');
+    pauliimg = loadImage('images/paulimurrayillus.png');
 }
 
 function setup(){
