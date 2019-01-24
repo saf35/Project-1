@@ -122,7 +122,7 @@ function draw(){
             y += dy * easing;
             //end referenced material
 
-            image(pauliimg,100*x/800,100*y/800,img.width/2.6,img.height/2);
+            image(pauliimg,100*x/800,100*y/800,img.width/3,img.height/2);
         }
 
         //From https://p5js.org/reference/#/p5/lerpColor
