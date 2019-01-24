@@ -26,7 +26,7 @@ function preload(){
 function setup(){
     
     createCanvas(1200, 600);
-    background(200,30,70);
+    background(255*(random()*hour()/24),255*(random()*minute()/60),255*(random()*second()/60));
     //From https://p5js.org/examples/input-constrain.html
     noStroke(); 
     ellipseMode(RADIUS);
@@ -64,7 +64,7 @@ function draw(){
             y += dy * easing;
             //end referenced material
 
-            image(img,100*x/800,100*y/800,img.width/2,img.height/2);
+            image(img,100*x/800,100*y/800,img.width/3.3,img.height/3.3);
         }
 
         //From https://p5js.org/reference/#/p5/lerpColor
@@ -122,7 +122,7 @@ function draw(){
             y += dy * easing;
             //end referenced material
 
-            image(pauliimg,100*x/800,100*y/800,img.width/3,img.height/2);
+            image(pauliimg,100*x/800,100*y/800,img.width/4.5,img.height/3.2);
         }
 
         //From https://p5js.org/reference/#/p5/lerpColor
@@ -152,10 +152,8 @@ function draw(){
 
         }
         textFont('Arial',38);
-    } else if ( letter === 's' ) {
-
-    } else {
-
+    } else if ( letter === 'z' ) {
+        background(255*(hour()/24),255*(minute()/60),255*(second()/60));
     }
     
 }
@@ -167,7 +165,7 @@ function keyTyped() {
         letter = 'a';
     } else if ( key === 'p' ) {
         letter = 'p';
-    } else if ( key === 's' ) {
-        letter = 's';
+    } else if ( key === 'z' ) {
+        letter = 'z';
     }
 }

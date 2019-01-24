@@ -39,3 +39,10 @@ frustrating at times. Furthermore, I also became frustrated when I was chosing w
 the people I included have done so many things in their lives and for their communities, and it's hard to discuss that
 in such a small space. However, I still wanted to prioritize introduction to these figures and visual, artistic 
 impact over informational quality. 
+
+Bibliography:
+
+Curtin, Frank C. Picture of Pauli Murray smiling at camera. WUNC 91.5: North Carolina Public Radio. Rao, Anita; Stasio, Frank. http://www.wunc.org/post/firebrand-and-first-lady
+Iovannone, Jeffry J. "Pauli Murray: "Jane Crow"." Medium, 3 Jun. 2018. https://medium.com/queer-history-for-the-people/pauli-murray-jane-crow-6f38afaadaaf.
+Philip, Aaron. "girl, interrupted." Instagram, 7 Jan. 2019, https://www.instagram.com/aaron___philip/?hl=en.
+Philip, Aaron. "I'm a Black, Trans, Disabled Model - And I Just Got Signed to a Major Agency." them., 4 Sept. 2018, https://www.them.us/story/aaron-philip-signed-to-modeling-agency.
